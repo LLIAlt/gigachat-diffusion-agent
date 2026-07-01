@@ -84,8 +84,6 @@ Ran `ab_test.py` to compare two router prompt variants on 8 test cases:
 WINNER: Prompt A — 100% vs 75%
 ```
 
-**Key insight:** The simpler, more direct prompt outperformed the more detailed variant. Concise output constraints (`reply with one lowercase word only`) proved more reliable than extended classification criteria.
-
 ---
 
 ## Setup
